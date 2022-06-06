@@ -1,0 +1,13 @@
+#TLB experiment
+#	page size = 64 bytes
+#	max number of pages = 16
+#	total number of references = 10 Mi
+#pages	 proc	 sum
+4	 0.00902	 10485760
+6	 0.00480	 10485756
+8	 0.00487	 10485760
+10	 0.00477	 10485760
+12	 0.00459	 10485756
+14	 0.01446	 10485748
+16	 0.00494	 10485760
+#	time for all references in sec (4940)
